@@ -21,7 +21,7 @@ export const HeroSection = () => {
 
 
             <div className="w-full md:w-1/2 flex justify-center mb-10 md:mb-0">
-             <img src="../public/images/world.png" alt="" />
+            <img src="/images/world.png" alt="World" />
             </div>
         </section>
     );
