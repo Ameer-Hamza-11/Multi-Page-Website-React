@@ -1,0 +1,17 @@
+[
+    {
+      "icon": "MdPlace",
+      "title": "Find us",
+      "details": "Lyari, Karachi"
+    },
+    {
+      "icon": "IoCallSharp",
+      "title": "Call us",
+      "details": "+923260784463"
+    },
+    {
+      "icon": "TbMailPlus",
+      "title": "Mail us",
+      "details": "ameerhamza.bmj@gmail.com"
+    }
+  ]
